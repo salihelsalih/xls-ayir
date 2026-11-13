@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.xls
+*.xlsx
+Ayrılmış/
+ayrilmis_sayfalar_xls/
+kusursuz_tablo.html
+sadece_ihtiyac_olan.xlsx
+build/
+dist/
+*.spec
+.vscode/
+.idea/
